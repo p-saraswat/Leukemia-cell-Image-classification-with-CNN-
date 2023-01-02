@@ -22,6 +22,7 @@ Gupta, A., & Gupta, R. (2019). ALL Challenge dataset of ISBI 2019 [Data set]. Th
 
 ## Models explored 
 *1. Baseline CNN Model*
+
 A baseline Convolutional Neural Network (CNN) is a simple model that can be used as a starting point for developing more complex and accurate models. A baseline model is typically a model that is easy to implement and has reasonable performance, but is not necessarily the best possible model for a given task.
 
 A baseline CNN model might have the following characteristics:
