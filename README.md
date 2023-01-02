@@ -8,8 +8,10 @@ The task of identifying immature leukemic blasts from normal cells under the mic
 
 In total there are 15,135 images from 118 patients with two labelled classes:
 
-Normal cell;
-Leukemia blast.
+***Normal cell***;
+![image](https://user-images.githubusercontent.com/121529081/210246623-9cc0e959-b598-434f-9688-411a339d671b.png)
+
+***Leukemia blast***
 ![image](https://user-images.githubusercontent.com/121529081/210246335-7eb59369-4e98-4579-9ff3-523f78f2a23a.png)
 
 
