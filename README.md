@@ -56,4 +56,11 @@ The main idea behind ResNets is that by adding these skip connections, it is pos
 
 
 ## Best Model's performance
+Since this is a classification task, we are using accuracy to evaluate the model performance and the following are the accuracies of different models explored
+1. Base Model accuracy  =  56%
+2. Inception Model = 78%
+3. Resnet Model = 82%
+
+Further the model's accuracy could be improved by using Keras's inbuilt ResNet model, which has 50 trained layers.
+
 
